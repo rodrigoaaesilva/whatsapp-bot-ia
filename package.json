@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-bot-ia",
+  "version": "1.0.0",
+  "description": "Bot de atendimento automatizado com inteligência artificial",
+  "main": "wa-bot.js",
+  "scripts": {
+    "start": "node wa-bot.js"
+  },
+  "dependencies": {
+    "@open-wa/wa-automate": "*",
+    "openai": "*"
+  }
+}
